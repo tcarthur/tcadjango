@@ -1,6 +1,7 @@
 # tcadjango
 Crindo WEB Site com Django
 
+Aplicação disponível em https://tcadjango.herokuapp.com/
 
 [![Build Status](https://www.travis-ci.com/tcarthur/tcadjango.svg?branch=master)](https://www.travis-ci.com/tcarthur/tcadjango)
 [![Updates](https://pyup.io/repos/github/tcarthur/tcadjango/shield.svg)](https://pyup.io/repos/github/tcarthur/tcadjango/)
