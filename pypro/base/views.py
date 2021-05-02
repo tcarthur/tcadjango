@@ -1,8 +1,8 @@
-from http.client import HTTPResponse
+from django.http import HttpResponse
 from django.shortcuts import render # noqa
 
 # Create your views here.
 
 
 def home(request):
-    return HTTPResponse('Olá Django')
+    return HttpResponse('Olá Django')
