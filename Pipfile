@@ -7,6 +7,7 @@ name = "pypi"
 django = "*"
 gunicorn = "*"
 requests = "*"
+python-decouple = "*"
 
 [dev-packages]
 flake8 = "*"
